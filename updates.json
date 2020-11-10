@@ -3,6 +3,6 @@
     "update": "https://github.com/okbody39/seedlaunchpad-release/releases/download/linux-x64-prod-v1.0.11-lina/seed-launchpad-1.0.11-lina.AppImage",
     "install": "https://github.com/okbody39/seedlaunchpad-release/releases/download/linux-x64-prod-v1.0.11-lina/seed-launchpad-1.0.11-lina.AppImage",
     "version": "1.0.11-lina",
-    "sha256": "5c26a95f824a21d4e2bab089e09ef11facdda61d744bcc65825b6f349236655c"
+    "sha256": "f0f767ecfc7a4d22e147767bb9c7c9a3a593e9f7ba647b044018a18c09d94de2"
   }
 }
