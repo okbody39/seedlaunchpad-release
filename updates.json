@@ -1,8 +1,7 @@
 {
-  "linux-x64-prod": {
-    "update": "https://github.com/okbody39/seedlaunchpad-release/releases/download/linux-x64-prod-v1.0.14-lina-nomenu/seed-launchpad-1.0.14-lina-nomenu.AppImage",
-    "install": "https://github.com/okbody39/seedlaunchpad-release/releases/download/linux-x64-prod-v1.0.14-lina-nomenu/seed-launchpad-1.0.14-lina-nomenu.AppImage",
-    "version": "1.0.14-lina-nomenu",
-    "sha256": "0ebbdf8a390ecf0b5305fc15d2eb09daf3a524f09c8a0b3daba7f7535faa9fcc"
+  "win32-x64-prod": {
+    "update": "https://github.com/okbody39/seedlaunchpad-release/releases/download/win32-x64-prod-v2.0.1-lina",
+    "install": "https://github.com/okbody39/seedlaunchpad-release/releases/download/win32-x64-prod-v2.0.1-lina/seed-launchpad.Setup.2.0.1-lina.exe",
+    "version": "2.0.1-lina"
   }
 }
